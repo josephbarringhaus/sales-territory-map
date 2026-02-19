@@ -1,0 +1,13 @@
+[
+  {
+    "id": "2025-01-15T10:30:00.000Z",
+    "date": "2025-01-15",
+    "timestamp": "2025-01-15T10:30:00.000Z",
+    "territoryCode": "FR",
+    "territoryName": "France",
+    "territoryType": "Country",
+    "oldOwner": "rep-4",
+    "newOwner": "rep-5",
+    "notes": "Reassigned to better align with regional coverage"
+  }
+]
